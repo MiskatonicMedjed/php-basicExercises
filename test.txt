@@ -1,0 +1,4 @@
+The test was successful
+if this line wasn't printed.
+Or if there's a message after this:
+PHP is awesome.
